@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6d7e7647.chunk.css",
+    "main.js": "/portfolio/static/js/main.ed1c0cf5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ed1c0cf5.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.255623fe.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.255623fe.js.map",
+    "static/js/2.6c8a95f8.chunk.js": "/portfolio/static/js/2.6c8a95f8.chunk.js",
+    "static/js/2.6c8a95f8.chunk.js.map": "/portfolio/static/js/2.6c8a95f8.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.5376795eba7d45507997206848d32773.js": "/portfolio/precache-manifest.5376795eba7d45507997206848d32773.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6d7e7647.chunk.css.map": "/portfolio/static/css/main.6d7e7647.chunk.css.map",
+    "static/js/2.6c8a95f8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6c8a95f8.chunk.js.LICENSE.txt",
+    "static/media/kannan.jpg": "/portfolio/static/media/kannan.ce9b200d.jpg",
+    "static/media/shareyourbyte.jpg": "/portfolio/static/media/shareyourbyte.5be6f821.jpg",
+    "static/media/wikipediasearch.jpg": "/portfolio/static/media/wikipediasearch.0ff958ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.255623fe.js",
+    "static/js/2.6c8a95f8.chunk.js",
+    "static/css/main.6d7e7647.chunk.css",
+    "static/js/main.ed1c0cf5.chunk.js"
+  ]
+}
